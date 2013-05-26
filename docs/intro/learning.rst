@@ -52,9 +52,10 @@ to the subject of debugging.
 While exploring the various features available in the python language the
 author weaves in various design patterns and best practices.
 
-The book also includes several case studies which have the reader explore the
-topics discussed in the book in greater detail by applying those topics to
-real-world examples. Case studies include assignments in GUI and Markov
+.. run on sentence chopped up into parts
+The book also includes several case studies. The reader explores new
+topics in greater detail by applying those topics to
+real-world examples. Examples include Graphic User Interfaces (GUI) and Markov
 Analysis.
 
     `Think Python <http://greenteapress.com/thinkpython/html/index.html>`_
@@ -96,6 +97,7 @@ Pro Python
 
 This book is for intermediate to advanced Python programmers who are looking to understand how
 and why Python works the way it does and how they can take their code to the next level.
+..                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  hate this phrase
 
 
 Expert Python Programming
@@ -113,6 +115,9 @@ chapters detail best practices with writing documentation, test-driven
 development, version control, and optimization/profiling.
 
     `Expert Python Programming <http://www.packtpub.com/expert-python-programming/book>`_
+
+.. I purchased this text based on its recommendation here. 1) can you convince packt to give you a promo code.
+.. 2) can you get referral compensation to offset your expenses?
 
 The Python Tutorial
 ~~~~~~~~~~~~~~~~~~~~

@@ -9,8 +9,9 @@ Which Python to use?
 2.x vs 3.x
 ~~~~~~~~~~
 
-    Python 2.x is the status quo, Python 3.x is the shiny new thing.
+    Python 2.x is the status quo,  Python 3.x is the present and future of the language.
 
+.. updated quote from website referenced.
 
 `Further Reading <http://wiki.python.org/moin/Python2orPython3>`_
 
@@ -32,6 +33,8 @@ others to use it.
 Which Python to Support?
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. I disagree. Start with py3. But I understand the claim. 
+
 If you're starting work on a new Python module, I recommend you write it for
 Python 2.5 or 2.6, and add support for Python3 in a later iteration.
 
@@ -45,7 +48,9 @@ CPython
 -------
 
 `CPython <http://www.python.org>`_ is the reference implementation of Python,
-written in C. It compiles Python code to intermediate bytecode which is then
+written in C. (A *reference implementation* is one where the implementation 
+serves a reference for the specification.) 
+It compiles Python code to intermediate bytecode which is then
 interpreted by a virtual machine. When people speak of *Python* they often mean
 not just the language but also this implementation. It provides the highest
 level of compatibility with Python packages and C extension modules.

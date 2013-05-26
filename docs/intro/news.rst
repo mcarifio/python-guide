@@ -1,6 +1,9 @@
 News
 ====
 
+.. Why did you select these over others? A sentence for why might be instructive.
+
+
 Planet Python
 ~~~~~~~~~~~~~
 
